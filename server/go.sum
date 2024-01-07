@@ -1,5 +1,5 @@
-github.com/jirayutcc/broadcast v0.1.0 h1:VRSkG7j1sTRQFQYS2rpoyKWuf6L1nSM9AZN3KDyW5CM=
-github.com/jirayutcc/broadcast v0.1.0/go.mod h1:IZ7auXb36mJ/m6MaAPtnmzwLI4drBzO0cZErlN6DTjA=
+github.com/jirayutcc/broadcast v0.1.2 h1:VRSkG7j1sTRQFQYS2rpoyKWuf6L1nSM9AZN3KDyW5CM=
+github.com/jirayutcc/broadcast v0.1.2/go.mod h1:IZ7auXb36mJ/m6MaAPtnmzwLI4drBzO0cZErlN6DTjA=
 github.com/labstack/echo/v4 v4.11.4 h1:vDZmA+qNeh1pd/cCkEicDMrjtrnMGQ1QFI9gWN1zGq8=
 github.com/labstack/echo/v4 v4.11.4/go.mod h1:noh7EvLwqDsmh/X/HWKPUl1AjzJrhyptRyEbQJfxen8=
 github.com/labstack/gommon v0.4.2 h1:F8qTUNXgG1+6WQmqoUWnz8WiEU60mXVVw0P4ht1WRA0=
